@@ -235,6 +235,6 @@ Databricks Dashboard
 
 Aspiring Data Engineer | Java Spring Boot Developer
 
-LinkedIn: *(Add your LinkedIn profile)*
+LinkedIn: *https://www.linkedin.com/in/vipulbhole-*
 
-GitHub: *(Add your GitHub profile)*
+GitHub: *https://github.com/vipulbhole26*
